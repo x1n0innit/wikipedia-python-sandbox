@@ -14,3 +14,5 @@ otherWikiPage = wikipedia.summary(linksArray[randInt], sentences = 3)
 
 print(linksArray[randInt])
 print(otherWikiPage)
+
+exit = input("Write 'EXIT' to close the program")
